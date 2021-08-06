@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D461AC2726BC5E5D00CEA06D /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D461AC2626BC5E5D00CEA06D /* ThirdViewController.swift */; };
 		D4DDC3AF26BA412C0054A4F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4DDC3AE26BA412C0054A4F9 /* AppDelegate.swift */; };
 		D4DDC3B126BA412C0054A4F9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4DDC3B026BA412C0054A4F9 /* SceneDelegate.swift */; };
 		D4DDC3B326BA412C0054A4F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4DDC3B226BA412C0054A4F9 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D461AC2626BC5E5D00CEA06D /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		D4DDC3AB26BA412C0054A4F9 /* esteelauderproject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = esteelauderproject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4DDC3AE26BA412C0054A4F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4DDC3B026BA412C0054A4F9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 		D4DDC3A226BA412C0054A4F9 = {
 			isa = PBXGroup;
 			children = (
+				D461AC2626BC5E5D00CEA06D /* ThirdViewController.swift */,
 				D4DDC3AD26BA412C0054A4F9 /* esteelauderproject */,
 				D4DDC3C726BA412F0054A4F9 /* esteelauderprojectTests */,
 				D4DDC3D226BA412F0054A4F9 /* esteelauderprojectUITests */,
@@ -263,6 +266,7 @@
 			files = (
 				D4DDC3B326BA412C0054A4F9 /* ViewController.swift in Sources */,
 				D4DDC3B926BA412C0054A4F9 /* esteelauderproject.xcdatamodeld in Sources */,
+				D461AC2726BC5E5D00CEA06D /* ThirdViewController.swift in Sources */,
 				D4DDC3AF26BA412C0054A4F9 /* AppDelegate.swift in Sources */,
 				D4DDC3B126BA412C0054A4F9 /* SceneDelegate.swift in Sources */,
 			);
